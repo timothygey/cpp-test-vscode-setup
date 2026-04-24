@@ -1,0 +1,48 @@
+# ===== Compiled Files =====
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# ===== Build Directories =====
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+out/
+
+# ===== Visual Studio =====
+.vs/
+*.vcxproj.user
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.ipch
+
+# ===== VS Code =====
+.vscode/
+
+# ===== CMake =====
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+cmake_install.cmake
+Makefile
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE / Editor =====
+*.swp
+*.swo
+*~
